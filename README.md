@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/i.imgur.com/sgf9wTT.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1300px; height: auto; margin: 7px auto;" alt="View 11 Anime Rain Gif Loop" jsname="kn3ccd">
+<img src="https://i0.wp.com/i.imgur.com/sgf9wTT.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="width: 1300px; height: auto; margin: auto;" alt="View 11 Anime Rain Gif Loop" jsname="kn3ccd">
 
 # 💫 About Me:
 🇧🇪 🇫🇷 I'm a Franco-Belgian junior developer<br><br>🧑🏼‍💻 I’m currently studying at 42 Luxembourg<br><br>🥇 I won with classmates the H-W3B Hackaton in Luxembourg
