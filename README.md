@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/eliot-gruslin-4614782b8) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,sass,js,php,mysql,py,unity,blender,figma,ai,git,linux,vscode&perline=50)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,sass,js,vue,php,mysql,py,django,flutter,unity,blender,figma,ai,git&perline=50)](https://skillicons.dev)<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Erio6&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true)<br/>
